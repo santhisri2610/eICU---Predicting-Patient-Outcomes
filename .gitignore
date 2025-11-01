@@ -5,3 +5,5 @@ __pycache__/
 *.pt
 *.h5
 .DS_Store
+"backend/.venv/" 
+"backend/.venv/" 
